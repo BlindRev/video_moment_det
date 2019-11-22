@@ -29,30 +29,39 @@
    output:
    
 Loading test data
-
 predicting scores for snippets...
-
 calculate MAP...
+
 dog_MAP:0.6332961132363135
+
 Loading test data
 predicting scores for snippets...
 calculate MAP...
+
 gymnastics_MAP:0.8251755624960364
+
 Loading test data
 predicting scores for snippets...
 calculate MAP...
+
 parkour_MAP:0.6929103789873162
+
 Loading test data
 predicting scores for snippets...
 calculate MAP...
+
 skating_MAP:0.5299066519046772
+
 Loading test data
 predicting scores for snippets...
 calculate MAP...
+
 skiing_MAP:0.7445942742030888
+
 Loading test data
 predicting scores for snippets...
 calculate MAP...
+
 surfing_MAP:0.7932121734343105
 
 
