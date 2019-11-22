@@ -9,6 +9,8 @@
    python3.7
 
    cuda9.0 or higher
+   
+   scikit-learn
 
 3. To get the MAP values for all Six domains, you need:
 
