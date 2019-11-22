@@ -7,8 +7,8 @@ from torch.autograd import Variable
 from ytbHighlight_testData_videoBank import ytbHighlight_testData
 from opts import parse_opts
 import time
-from utils import Logger
-from utils import Bar
+#from utils import Logger
+#from utils import Bar
 import os
 from sklearn.metrics import average_precision_score
 import numpy as np
