@@ -29,7 +29,9 @@
    output:
    
 Loading test data
+
 predicting scores for snippets...
+
 calculate MAP...
 dog_MAP:0.6332961132363135
 Loading test data
