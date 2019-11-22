@@ -10,13 +10,16 @@
 
    cuda9.0 or higher
 
-3. To get the MAP values for all Six domains, first you need:
+3. To get the MAP values for all Six domains, you need:
 
+    download the feature files 'ytbData.pkl' via 
+    https://drive.google.com/open?id=1yA49xsZb8VaEqn6QTqXMNPhi_EOfnydo
+    
+    youtube highlight datasets via:
+    git clone 'https://github.com/aliensunmin/DomainSpecificHighlight.git'
+
+4. RUN:  
    sh get_map_for_allDomains.sh
 
-4. File desription:
-DomainSpecificHighlight: a folder contains the Youtube Highlight data and labeling from 'https://github.com/aliensunmin/DomainSpecificHighlight.git'
-
-ytbData.pkl: a pickle file contains the 3D conv features for video snippets
 
 
